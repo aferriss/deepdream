@@ -4,13 +4,18 @@
 #### Sample Settings
 
 Layer : mixed4c
+
 Iterations : 12
+
 Step : 1.4
+
 Octaves : 12
+
 Scale : 1.6
+
 PrintLayers : False
 
-####Channels I like
+#### Channels I like
 - 7 Telescopes
 - 12 artichokes
 - 15 colored scales
