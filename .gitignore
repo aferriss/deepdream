@@ -3,3 +3,6 @@
 *.mov
 *.mp4
 *.pb
+.*.swn
+.*.swp
+.*.swo
