@@ -20,7 +20,7 @@ Scale : 1.6
 
 PrintLayers : False
 
-#### Channels I like
+#### Channels I like on mixed4c layer
 - 7 Telescopes
 - 12 artichokes
 - 15 colored scales
